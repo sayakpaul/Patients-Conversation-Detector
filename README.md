@@ -1,1 +1,1 @@
-Contains my experiments for ZS's hiring hackathon (II).
+This repo contains my experiments for ZS Associate's hiring hackathon. I liked the problem statement so much that I ended up annotating my experiments so that people find it easy to understand my thought process behind solving the problem. 
